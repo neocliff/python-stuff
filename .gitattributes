@@ -1,0 +1,16 @@
+
+* text=auto
+*.txt 		text
+*.html 		text
+*.css 		text
+*.scss 		text
+*.json		text
+*.sh		text eol=lf
+*.py		text eol=lf
+*.csproj	text eol=crlf
+*.sln		text eol=crlf
+*.png 		binary
+*.jpg 		binary
+*.bmp 		binary
+*.ico 		binary
+*.svg 		binary
